@@ -11,7 +11,6 @@
   font-weight: bold;
   padding: 12px 16px;
   text-decoration: none;
-  transition: all 250ms;
 
   &:after {
     border-color: currentColor transparent;
@@ -78,7 +77,6 @@
     padding: 10px 15px;
     text-align: center;
     text-decoration: none;
-    transition: background-color 250ms;
     white-space: nowrap;
 
     &:hover {
